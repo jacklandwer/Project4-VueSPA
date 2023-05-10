@@ -1,6 +1,5 @@
 # Project4-VueSPA
 
-<!-- 
 Project 2: Project4-VueSPA
 - Is a web server that utilizes a RESTfulAPI to create an interactive map that shows crime incidents in St. Paul.
 - Incidents are populated on a google map, indicated by pin markers, based on the currently-shown section of the map.
@@ -14,4 +13,3 @@ Project 2: Project4-VueSPA
 - The input box allows users to enter a location for the map to go to. 
 - The crime incident marker pins are clickable and show data based off what pin it is.
 
--->
